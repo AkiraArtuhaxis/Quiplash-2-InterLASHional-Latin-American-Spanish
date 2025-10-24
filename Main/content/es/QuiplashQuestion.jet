@@ -1178,7 +1178,7 @@
         {
             "x": false,
             "id": 60327,
-            "prompt": "La única forma de librarte de una cena familiar es <blank>"
+            "prompt": "La única forma de librarte de una cena familiar es <BLANK>"
         },
         {
             "x": true,
